@@ -2,7 +2,7 @@
   "name": "domestic-expense-auditng",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     
     "npm": "8.11.0",
